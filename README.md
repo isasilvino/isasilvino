@@ -15,6 +15,7 @@
 
 
 <div align= "center">
+  
 <img src="./assets/borboleta.svg" width="24" alt="flor"> I've been coding **since 2023**, and it only helps me get even more stressed out **(just kidding)**.
 
 <img src="./assets/borboleta.svg" width="24" alt="flor"> I'm a back-end developer but I'm **currently** working with AI training instead of programming.
