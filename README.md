@@ -1,31 +1,44 @@
 <div align="center">
 
 
-# **$\color{#FFA3E4}{\text{Hi there! I'm Isadora}}$**
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Slab&weight=700&size=15&pause=1000&color=FFA3E4&center=true&width=435&lines=Java+%26+PHP+enjoyer)](https://git.io/typing-svg)
-
-
-<div align="left">
-
-✨ I've been coding **since 2023**, and it only helps me get even more stressed out **(just kidding)**.
-
-✨ I'm a back-end developer but I'm **currently** working with AI training instead of programming.
-
-✨ I've worked  with **TypeScript**, **Node.js**, and **JavaScript**, but I have more experience and have done some projects with **Java** and **PHP**.
-
-✨ Coding isn't really my main focus these days. It's just something I enjoy doing sometimes, and this profile is for my **personal projects and studies**.
-</div>
-
-<br>Hope you find something cool around here!
-
-Aaand feel free to reach out on [Instagram](https://instagram.com/isa__scardoso)! It's private, but I usually accept follow requests.
-
-
 <p align="center">
-  <img src="./assets/coding.gif" width="100" alt="Coding GIF">
+
+<img src="./assets/isadora.svg" width="500">
+
 </p>
 
-## **$\color{#FFCCFC}{\text{Languages and Technologies}}$**
+
+
+<img src="./assets/trevo.svg" width="30" alt="flor">
+
+&nbsp;&nbsp;&nbsp;
+
+
+<div align= "center">
+<img src="./assets/borboleta.svg" width="24" alt="flor"> I've been coding **since 2023**, and it only helps me get even more stressed out **(just kidding)**.
+
+<img src="./assets/borboleta.svg" width="24" alt="flor"> I'm a back-end developer but I'm **currently** working with AI training instead of programming.
+
+<img src="./assets/borboleta.svg" width="24" alt="flor"> I've worked  with **TypeScript**, **Node.js**, and **JavaScript**, but I have more experience and have done some projects with **Java** and **PHP**.
+
+<img src="./assets/borboleta.svg" width="24" alt="flor"> Coding isn't really my main focus these days. It's just something I enjoy doing sometimes, and this profile is for my **personal projects and studies**.
+</div>
+
+<br>Hope you find something cool around here
+
+Aaand feel free to reach out on [Instagram](https://instagram.com/isa__scardoso)! It's private, but don't worry, I usually accept follow requests
+
+
+&nbsp;&nbsp;&nbsp;
+
+<img src="./assets/trevo.svg" width="30" alt="flor">
+
+&nbsp;&nbsp;&nbsp;
+
+<img src="./assets/linguagem.svg" width="400">
+
+&nbsp;&nbsp;&nbsp;
+
 
 <div align="center">
 
@@ -39,5 +52,12 @@ Aaand feel free to reach out on [Instagram](https://instagram.com/isa__scardoso)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" width="50" alt="Bun"/>
 
 </div> 
+
+
+&nbsp;&nbsp;&nbsp;
+
+<img src="./assets/mood.svg" width="300">
+
+<img src="./assets/coding.gif" width="200" alt="gato">
 
 </div>
