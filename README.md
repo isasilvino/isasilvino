@@ -62,4 +62,6 @@ Aaand feel free to reach out on [Instagram](https://instagram.com/isa__scardoso)
 </p>
 <img src="./assets/coding.gif" width="200" alt="gato">
 
+&nbsp;&nbsp;&nbsp;
+
 </div>
