@@ -27,7 +27,7 @@
 
 <br>Hope you find something cool around here
 
-Aaand feel free to reach out on [Instagram](https://instagram.com/isa__scardoso)! It's private, but don't worry, I usually accept follow requests
+Aaand feel free to reach out on [Instagram](https://instagram.com/isa__scardoso)! It's private, but I usually accept follow requests
 
 
 &nbsp;&nbsp;&nbsp;
